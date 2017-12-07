@@ -93,10 +93,10 @@ You might have been asking where these cool fonts come from? [Font Awesome](http
 3. On the [Font Awesome Icons Page](http://fontawesome.io/icons/), you'll see lots of other icon names. 
 4. Try this change ```fa-twitter``` to ```fa-bitcoin```   
    
-So...  
-```<i class="fa fa-twitter fa-3x"></i>```   
-should become   
-   ```<i class="fa fa-bitcoin fa-3x"></i>```
+> So...  
+> ```<i class="fa fa-twitter fa-3x"></i>```   
+> should become   
+>   ```<i class="fa fa-bitcoin fa-3x"></i>```
 
 
 
