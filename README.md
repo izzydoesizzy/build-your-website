@@ -50,9 +50,12 @@ First of all, please [download the resume template here](https://github.com/izzy
 
 1. Open Sublime Text
 2. Click on File/Open then open the entire folder "resumetemplate-gh-pages"
-3. 
 
 ![Edit](/assets/openfolder.png)
+
+3. Your Sublime Text should show the whole folder structure like this. 
+
+![Edit](/assets/folderstructure.png)
 
 # Where can you find free templates?
 
