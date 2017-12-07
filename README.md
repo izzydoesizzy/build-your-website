@@ -104,14 +104,12 @@ These should be pretty straightforward at this point. Right click, inspect eleme
 
 ** Links **
 > So if you want to change the link from my Twitter, to Google...  
-
 > ```<a href="http://www.twitter.com/izzydoesizzy" target="_blank"><i class="fa fa-twitter fa-3x"></i></a>```   
 > should become   
 >   ```<a href=http://www.google.ca" target="_blank"><i class="fa fa-twitter fa-3x"></i></a>```
 
 ** Images **
 > So if you want to change the circle image from my profile pic, to yours...  
-
 > ```<img class="profilepic" src="https://pbs.twimg.com/profile_images/641063961144750081/IqosL0KD.jpg">```   
 > should become   
 >   ```<img class="profilepic" src="http://yournewurl.com/yournewphoto.png">```  
