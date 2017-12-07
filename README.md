@@ -81,7 +81,7 @@ These are HTML structural elements. What actually make up the architecture of yo
 ### Styles
 These are the parts of your website that are pretty. Colours, fonts, borders etc
 
-# Step 4: Find, Edit, then Save in the index.html File in Sublime Text
+# Step 4: Find, edit, then save in Sublime Text
 After you've played around and figured out what you want to change, find those elements in the index.html file in Sublime Text, edit it, then save it for those changes to be permanent.
 
 # Step 5: Font Awesome 
