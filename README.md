@@ -43,7 +43,7 @@ Don't worry if you run into any issues.  Our mentors will be ready to help you g
 
 
 
-#Where can you find free templates?
+# Where can you find free templates?
 
 * [HTML5UP](http://html5up.com)
 * [TrendyTheme](https://trendytheme.net/items/category/html/)
