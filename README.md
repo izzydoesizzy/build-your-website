@@ -23,10 +23,10 @@ You're encouraged to buddy up with one other person. That said, both of you shou
 
 The finished page that we'll be building in just a few hours today will look and feel much like this.
 
-![Edit](/images/image1.png)
-![Edit](/images/image2.png)
-![Edit](/images/image3.png) 
-![Edit](/images/image4.png)
+![Edit](/assets/image1.png)
+![Edit](/assets/image2.png)
+![Edit](/assets/image3.png) 
+![Edit](/assets/image4.png)
 
 Let's get started with some [Setup](content/setup/README.md) or if you feel you can go faster here is a [Summary](SUMMARY.md) of all we'll cover.
 
