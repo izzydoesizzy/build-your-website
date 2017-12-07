@@ -2,19 +2,18 @@
 
 # Introduction
 
-Hello and thank you for joining us for this JavaScript Essentials Workshop.
+Hello and thank you for joining us for the Build Your First Website workshop.
 
-My name is Juan Gonzalez and I am your Lighthouse Labs instructor today.
+My name is [Izzy Piyale-Sheard](http://twitter.com/izzydoesizzy), the Community Manager at Lighthouse Labs and workshop leader today.
 
-My background is in software development, focusing on Web technologies. I started programming at a young age, selling my first piece of code at age 16 and eventually building very large web systems for large companies.  
+Over the last few years, I've led a group of 30-40 software developers around the world for a year, organized meetups with different startups in countries all over the world, and started working as the Community Manager at Lighthouse Labs.
 
-For the past 10 years I have also been involved in some very interesting startups.
 
 ## The goal
 
-Today's goal is to get acquainted with JavaScript-based Web programming by creating a simple chat application. We'll use modern tools \(Node.js, Web Sockets, etc.\) and touch upon many different technologies.
+You may have previously attempted to teach yourself how to code, or how to build website in different ways. The goal of today isn't to teach oyu everything from scratch, but rather to give you a few tools to be able to quickly and easily hack together a website as quickly as possible.
 
-The objective is not to fully understand every line of code, but to understand server-client architecture and to be inspired by how much can be created with so little code.
+We'll be working with an HTML template, then learning how to modify it and adapt it to our liking by using Chrome Devtools, then throwing it up live so others can see it.
 
 ## Pair programming
 
