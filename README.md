@@ -48,16 +48,20 @@ First of all, please [download the resume template here](https://github.com/izzy
 
 # Step 2: Set up your workspace
 
-### Step 1A: Open Sublime Text
-### Step 1B: Click on File/Open then open the entire folder "resumetemplate-gh-pages"
+### Step 2a: Open Sublime Text
+### Step 2b: Click on File/Open then open the entire folder "resumetemplate-gh-pages"
 
 ![Edit](/assets/openfolder.png)
 
-### Step 1C: Your Sublime Text should show the whole folder structure like this. 
+### Step 2c: Your Sublime Text should show the whole folder structure like this. 
 
 ![Edit](/assets/folderstructure.png)
 
-### Step 1D: 
+### Step 2d: Open your website locally
+
+Find your the website directory (folder) on your desktop again, right click on "index.html" and open with Chrome
+
+![Edit](/assets/indexhtml.png)
 
 # Where can you find free templates?
 
