@@ -98,7 +98,28 @@ You might have been asking where these cool fonts come from? [Font Awesome](http
 > should become   
 >   ```<i class="fa fa-bitcoin fa-3x"></i>```
 
+# Step 6: Links & Images
 
+These should be pretty straightforward at this point. Right click, inspect element, find what you're looking for, change the link. Then go and change it in Sublime Text.
+
+** Links **
+> So if you want to change the link from my Twitter, to Google...
+> ```<a href="http://www.twitter.com/izzydoesizzy" target="_blank"><i class="fa fa-twitter fa-3x"></i></a>```   
+> should become   
+>   ```<a href=http://www.google.ca" target="_blank"><i class="fa fa-twitter fa-3x"></i></a>```
+
+** Images **
+> So if you want to change the circle image from my profile pic, to yours...
+> ```<img class="profilepic" src="https://pbs.twimg.com/profile_images/641063961144750081/IqosL0KD.jpg">```   
+> should become   
+>   ```<img class="profilepic" src="http://yournewurl.com/yournewphoto.png">```  
+> OR drop a square image from into the /images directory.  
+>   ```<img class="profilepic" src="images/yournewphoto.png">```  
+
+<img class="profilepic" src="https://pbs.twimg.com/profile_images/641063961144750081/IqosL0KD.jpg">
+
+
+# Step 7: 
 
 # Where can you find free templates?
 
