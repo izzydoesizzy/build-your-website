@@ -28,4 +28,16 @@ The finished app that we'll be building in just a few hours today will look and 
 Let's get started with some [Setup](content/setup/README.md) or if you feel you can go faster here is a [Summary](SUMMARY.md) of all we'll cover.
 
 
+#Where can you find free templates?
+
+* [HTML5UP](http://html5up.com)
+* [TrendyTheme](https://trendytheme.net/items/category/html/)
+* [StyleShout](https://www.styleshout.com/free-templates/)
+* [TooPlate](http://www.tooplate.com/)
+* [Templated](https://templated.co/)
+
+These ones are fancy but cost money:
+* [Themeforest](https://themeforest.net/category/site-templates/personal?sort=trending/?ref=ipiyale)
+* [WrapBootstrap](https://wrapbootstrap.com/themes/landing-pages)
+
 
