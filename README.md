@@ -86,10 +86,14 @@ After you've played around and figured out what you want to change, find those e
 
 
 # Step 5: Font Awesome 
-You might have been asking where these cool fonts come from? [FontAwesome](http://fontawesome.io/icons/). Whenever you see an icon, there's a good chance it's using FontAwesome or another icon font. In thise case I'll teach you how to use FontAwesome.
+You might have been asking where these cool fonts come from? [Font Awesome](http://fontawesome.io/icons/). Whenever you see an icon, there's a good chance it's using FontAwesome or another icon font. In thise case I'll teach you how to use FontAwesome.
 
 1. Right click and inspect one of the social media icons
 2. You will see ```<i class="fa fa-twitter fa-3x"></i>```
+3. On the [Font Awesome Icons Page](http://fontawesome.io/icons/), you'll see lots of other icon names. 
+4. Try this change '''fa-twitter''' to '''fa-bitcoin'''
+'''<i class="fa fa-twitter fa-3x"></i><br><i class="fa fa-bitcoin fa-3x"></i>'''
+
 
 
 # Where can you find free templates?
