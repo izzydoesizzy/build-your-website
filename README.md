@@ -71,6 +71,20 @@ Find your the website directory (folder) on your desktop again, right click on "
 
 # Step 3: Learning how to use Chrome Dev Tools
 
+### Things To Try
+* Right click on any part of the page and click inspect element
+* Edit the contents of a website (any website) locally and play pranks on your friends
+
+### Elements
+These are HTML structural elements. What actually make up the architecture of your site. The text, the blocks the content, the photos.
+
+### Styles
+These are the parts of your website that are pretty. Colours, fonts, borders etc
+
+# Step 4: Find, Edit, then Save in the index.html File in Sublime Text
+After you've played around and figured out what you want to change, find those elements in the index.html file in Sublime Text, edit it, then save it for those changes to be permanent.
+
+# Step 5: Font Awesome 
 
 
 # Where can you find free templates?
