@@ -116,6 +116,7 @@ These should be pretty straightforward at this point. Right click, inspect eleme
 > OR drop a square image from into the /images directory.  
 >   ```<img class="profilepic" src="images/yournewphoto.png">```  
 
+![Edit](/assets/yournewphoto.png)
 
 
 # Step 7: 
