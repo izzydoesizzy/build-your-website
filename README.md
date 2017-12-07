@@ -65,6 +65,9 @@ Find your the website directory (folder) on your desktop again, right click on "
 
 
 ## Congratulations! What you're seeing now in your browser is a local version of your website accessible on your computer!
+![Edit](/assets/indexhtml.png)
+
+![Edit](/assets/local.png)
 
 # Where can you find free templates?
 
