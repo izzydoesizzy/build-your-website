@@ -91,7 +91,9 @@ You might have been asking where these cool fonts come from? [Font Awesome](http
 1. Right click and inspect one of the social media icons
 2. You will see ```<i class="fa fa-twitter fa-3x"></i>```
 3. On the [Font Awesome Icons Page](http://fontawesome.io/icons/), you'll see lots of other icon names. 
-4. Try this change ```fa-twitter``` to ```fa-bitcoin```
+4. Try this change ```fa-twitter``` to ```fa-bitcoin```   
+   
+   So it should look like:   
 ```<i class="fa fa-twitter fa-3x"></i><br><i class="fa fa-bitcoin fa-3x"></i>```
 
 
