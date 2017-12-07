@@ -69,6 +69,10 @@ Find your the website directory (folder) on your desktop again, right click on "
 
 ![Edit](/assets/local.png)
 
+# Step 3: Learning how to use Chrome Dev Tools
+
+
+
 # Where can you find free templates?
 
 * [HTML5UP](http://html5up.com)
