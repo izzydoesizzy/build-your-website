@@ -40,8 +40,19 @@ Don't worry if you run into any issues.  Our mentors will be ready to help you g
 * If you don't have a text editor where you can code I recommend [Sublime Text](http://sublimetext.com)
 * We'll share some code during the Workshop. Having an account on [GitHub](http://github.com) will speed things up.
 
+# Step 1: Download the Template
 
+First of all, please [download the resume template here](https://github.com/izzydoesizzy/resumetemplate).
 
+![Edit](/assets/download.png)
+
+# Step 2: Set up your workspace
+
+1. Open Sublime Text
+2. Click on File/Open then open the entire folder "resumetemplate-gh-pages"
+3. 
+
+![Edit](/assets/openfolder.png)
 
 # Where can you find free templates?
 
