@@ -63,6 +63,10 @@ Find your the website directory (folder) on your desktop again, right click on "
 
 ![Edit](/assets/indexhtml.png)
 
+```
+Congratulations! What you're seeing now in your browser is a local version of your website accessible on your computer!
+```
+
 # Where can you find free templates?
 
 * [HTML5UP](http://html5up.com)
