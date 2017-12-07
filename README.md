@@ -84,7 +84,12 @@ These are the parts of your website that are pretty. Colours, fonts, borders etc
 # Step 4: Find, edit, then save in Sublime Text
 After you've played around and figured out what you want to change, find those elements in the index.html file in Sublime Text, edit it, then save it for those changes to be permanent.
 
+
 # Step 5: Font Awesome 
+You might have been asking where these cool fonts come from? [FontAwesome](http://fontawesome.io/icons/). Whenever you see an icon, there's a good chance it's using FontAwesome or another icon font. In thise case I'll teach you how to use FontAwesome.
+
+1. Right click and inspect one of the social media icons
+2. You will see ```<i class="fa fa-twitter fa-3x"></i>```
 
 
 # Where can you find free templates?
