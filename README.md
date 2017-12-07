@@ -21,11 +21,15 @@ You're encouraged to buddy up with one other person. That said, both of you shou
 
 ## The product
 
-The finished app that we'll be building in just a few hours today will look and feel much like this.
+The finished page that we'll be building in just a few hours today will look and feel much like this.
 
-![Example](/assets/example-cropped.png)
+![Example](/images/image1.png)
+![Example](/images/image2.png)
+![Example](/images/image3.png) 
+![Example](/images/image4.png)
 
 Let's get started with some [Setup](content/setup/README.md) or if you feel you can go faster here is a [Summary](SUMMARY.md) of all we'll cover.
+
 
 
 #Where can you find free templates?
